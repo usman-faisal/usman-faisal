@@ -1,33 +1,23 @@
-# Muhammad Usman Shamsi
+### hi, I'm Usman
 
-Karachi, Pakistan · usman.shamsi987@gmail.com
+Backend and AI engineer based in Karachi. I like systems that are simple to reason about and hard to break: heaps, B-trees, event loops, the boring infrastructure nobody notices until it's gone.
 
-Somewhere between `git push` and `malloc`
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-usman-shamsi-325079286/) · [Portfolio](https://github.com/usman-faisal)
+Previously built backend infra at [Sportefy](https://sportefypakistan.com) and shipped full-stack + RAG tooling at [Slidey LLC](https://slidey.io).
 
 ---
 
-### Projects
+**[tcp-loadbalancer](https://github.com/usman-faisal/tcp-loadbalancer)**
+Least-connections TCP load balancer in Go. Custom min-heap for O(log n) backend selection.
 
-**[C Database](https://github.com/usman-faisal/sqlite-clone-c)**
-Writing a SQLite clone from scratch in C, implementing B-tree indexing and byte-level memory management.
+**[sqlite-clone-c](https://github.com/usman-faisal/sqlite-clone-c)**
+A SQLite clone in C — B-tree indexing, byte-level memory management, no training wheels.
 
-**[API Flow](https://github.com/usman-faisal/api-flow) & [Blisp](https://blisp-landing.vercel.app)**
-Engineering multi-agent AI systems, voice-first productivity task pipelines, and complex automation layers using LangGraph and Gemini.
-
-**[TCP Load Balancer](https://github.com/usman-faisal/tcp-loadbalancer)**
-A least-connections TCP load balancer built from scratch in Go, backed by a custom min-heap for O(log n) backend selection.
+**[api-flow](https://github.com/usman-faisal/api-flow) / [blisp](https://blisp-landing.vercel.app)**
+Multi-agent AI pipelines and a voice-first productivity app, built on LangGraph + Gemini.
 
 **[LIGMA](https://github.com/ProDanish203/Ligma-DevsDay-26)**
-A real-time collaborative canvas built with CRDTs. Runner-up, DevsDay 2026 hackathon.
+Real-time collaborative canvas, CRDT-backed. Runner-up, DevsDay 2026.
 
 ---
 
-### Where I've worked
-
-**[Sportefy](https://sportefypakistan.com)** — Founding Backend Developer
-Built the entire core backend architecture from 0→1 using NestJS and TypeScript.
-
-**[Slidey LLC](https://slidey.io)** — Full-Stack Web Developer
-Developed RAG-powered internal tooling and managed serverless deployment lifecycles on Azure.
+[GitHub](https://github.com/usman-faisal) · [LinkedIn](https://www.linkedin.com/in/muhammad-usman-shamsi-325079286/) · usman.shamsi987@gmail.com
